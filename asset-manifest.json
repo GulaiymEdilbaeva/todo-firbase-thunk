@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/todo-firbase-thunk/static/css/main.073c9b0a.css",
+    "main.js": "/todo-firbase-thunk/static/js/main.5fdde839.js",
+    "static/js/787.3ecd467b.chunk.js": "/todo-firbase-thunk/static/js/787.3ecd467b.chunk.js",
+    "index.html": "/todo-firbase-thunk/index.html",
+    "main.073c9b0a.css.map": "/todo-firbase-thunk/static/css/main.073c9b0a.css.map",
+    "main.5fdde839.js.map": "/todo-firbase-thunk/static/js/main.5fdde839.js.map",
+    "787.3ecd467b.chunk.js.map": "/todo-firbase-thunk/static/js/787.3ecd467b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.5fdde839.js"
+  ]
+}
